@@ -2,7 +2,7 @@
 package proyectolistadc;
 //Universidad Laica "Eloy Alfaro" de Manabí
 //Proyecto Lista Doblemente Enlazada Circular
-//Mera Alvia Roberth Alexis
+//FLORES ALDO
 //Tercer Nivel "A"
 //Estructura de datos
 
@@ -42,6 +42,7 @@ class CLista
       public void Menu() throws IOException  {
           
        Scanner entrada = new Scanner(System.in);
+          System.out.println("aldo flores ");
         System.out.println("\n\n\t\t\tLista Doblemente Enlazada Circular");
         System.out.println("\n\n\t\t\t---------Menú Principal ---------");
         System.out.println("\t\t\t+                                  +");

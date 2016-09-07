@@ -43,6 +43,7 @@ class CLista
           
        Scanner entrada = new Scanner(System.in);
           System.out.println("aldo flores ");
+          System.out.println(" que feliz me siento");
         System.out.println("\n\n\t\t\tLista Doblemente Enlazada Circular");
         System.out.println("\n\n\t\t\t---------Menú Principal ---------");
         System.out.println("\t\t\t+                                  +");
